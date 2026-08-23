@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/HiteshCreates21/LEETCODE/tree/master/1927-sum-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HiteshCreates21/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
