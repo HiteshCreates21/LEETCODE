@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HiteshCreates21/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HiteshCreates21/LEETCODE/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/HiteshCreates21/LEETCODE/tree/master/1927-sum-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/HiteshCreates21/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HiteshCreates21/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HiteshCreates21/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/HiteshCreates21/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
